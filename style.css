@@ -4,3 +4,10 @@ body {
   text-align: center;
   background-color: #f4f4f4;
 }
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #222;
+  color: #fff;
+}
